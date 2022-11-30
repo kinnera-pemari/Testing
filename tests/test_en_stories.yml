@@ -1,0 +1,8 @@
+stories:
+  - story: test commit
+    steps:
+      - user: test commit
+        intent: commit
+    metadata:
+      group: test commit
+      language: en
