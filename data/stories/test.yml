@@ -1,0 +1,20 @@
+stories:
+  - story: test (1)
+    steps:
+      - intent: one
+        user: one
+    metadata:
+      group: test
+  - story: test (2)
+    steps:
+      - intent: two
+        user: two
+    metadata:
+      group: test
+  - story: test (3)
+    steps:
+      - intent: three
+        user: three
+    metadata:
+      group: test
+rules: []
