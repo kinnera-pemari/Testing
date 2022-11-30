@@ -277,7 +277,7 @@ forms:
             type: from_text
         name: confirmation
         utter_on_new_valid_slot: false
-    updatedAt: 1669788586504
+    updatedAt: 1669790626585
   starrating_value_form:
     collect_in_clai: true
     description: ''
@@ -329,7 +329,7 @@ forms:
             type: from_text
         name: star1
         utter_on_new_valid_slot: false
-    updatedAt: 1669788586507
+    updatedAt: 1669790618158
 intents:
   - action
   - animal
